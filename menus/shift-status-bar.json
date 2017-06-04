@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle shift-status-bar",
+        "command": "shift-status-bar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "SHIFT Status Bar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "shift-status-bar:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
