@@ -6,4 +6,4 @@ The price is provided by [CoinMarketCap](https://coinmarketcap.com/)'s API, expr
 
 ## Example
 
-1 SHIFT = $1.66
+![1 SHIFT = $1.62867](https://i.imgur.com/Ew1bLkT.png)
